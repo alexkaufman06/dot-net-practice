@@ -1,0 +1,6 @@
+c:\users\alex kaufman\documents\visual studio 2013\Projects\TestApp1\bin\TestApp1.dll.config
+c:\users\alex kaufman\documents\visual studio 2013\Projects\TestApp1\bin\TestApp1.dll
+c:\users\alex kaufman\documents\visual studio 2013\Projects\TestApp1\bin\TestApp1.pdb
+c:\users\alex kaufman\documents\visual studio 2013\Projects\TestApp1\obj\Debug\TestApp1.csprojResolveAssemblyReference.cache
+c:\users\alex kaufman\documents\visual studio 2013\Projects\TestApp1\obj\Debug\TestApp1.dll
+c:\users\alex kaufman\documents\visual studio 2013\Projects\TestApp1\obj\Debug\TestApp1.pdb
